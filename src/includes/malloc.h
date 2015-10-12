@@ -6,13 +6,13 @@
 /*   By: nsavry <nsavry@student.42.fr>              +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2015/10/12 16:17:02 by nsavry            #+#    #+#             */
-/*   Updated: 2015/10/12 16:17:21 by nsavry           ###   ########.fr       */
+/*   Updated: 2015/10/12 18:29:52 by nsavry           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #ifndef MALLOC_H
 # define MALLOC_H
 
-
+# include <sys/mman.h>
 
 #endif
